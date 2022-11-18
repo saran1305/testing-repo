@@ -1,4 +1,9 @@
 hi this is first line
 2nd
+<<<<<<< Updated upstream
 3rd 
 4th
+=======
+3rd
+4th
+>>>>>>> Stashed changes
